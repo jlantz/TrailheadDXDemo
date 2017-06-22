@@ -1,0 +1,11 @@
+{
+  "Company": "Trailhead DX Demo - Release Test Org",
+  "Country": "US",
+  "LastName": "Developer",
+  "Email": "jlantz@salesforce.com",
+  "Edition": "Enterprise",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true,
+    "ChatterEnabled" : true
+  }
+}

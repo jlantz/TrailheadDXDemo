@@ -1,0 +1,14 @@
+project:
+    name: TrailheadDXDemo
+    package:
+        api_version: 40.0
+        name: Trailhead DX Demo
+        namespace: tdxccidemo
+    dependencies:
+        # Latest Managed NPSP release and all its dependencies (including npe01, npo02, npe03, npe4, npe5)
+        - github: https://github.com/SalesforceFoundation/Cumulus
+          #unmanaged: True  # Uncomment for unmanaged NPSP deployment
+        
+        
+
+

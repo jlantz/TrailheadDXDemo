@@ -1,0 +1,12 @@
+{
+  "Company": "Trailhead DX Demo - Dev Workspace",
+  "Country": "US",
+  "LastName": "Developer",
+  "Email": "jlantz@salesforce.com",
+  "Edition": "Developer",
+  "OrgPreferences" : {
+    "S1DesktopEnabled" : true,
+    "Translation" : true,
+    "ChatterEnabled" : true
+  }
+}
